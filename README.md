@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sudhanshu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Tindog](https://github.com/sudhanshu-b/Tindog)
-
-- 🌱 I’m currently learning **React and Node.js**
-
 - 👨‍💻 All of my projects are available at [https://sudhanshu-b.github.io/Portfolio/](https://sudhanshu-b.github.io/Portfolio/)
 
 - 📫 How to reach me **burilesudhanshu@gmail.com**
